@@ -1,5 +1,5 @@
 import requests
-
+#paste your api 
 API_KEY = "https://api.open-meteo.com/v1/forecast?latitude=42.6667&longitude=25.25&hourly=temperature_2m"
 BASE_URL = "https://api.open-meteo.com/v1/forecast?latitude=42.6667&longitude=25.25&hourly=temperature_2m"
 
